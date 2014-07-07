@@ -22,13 +22,13 @@ more limited than we originally thought.  Therefore, we have decided to have pap
 flyers have a less prominent focus in our campaign than originally intended.
 
 This change to the plan has the following impacts:
-- More focus on email messages for promotion
+ - More focus on email messages for promotion
 	* Emails are plaintext and don't need to follow the branding standard
 	* Employees are more likely to read emails than happen to notice
 	and spend the time to read a paper sign
 	* Clever emails with attention-grabbing subjects will be noticed
 	* Emails are archived and can be checked again in case they forget
-- More collaboration with Raleigh for paper flyers
+ - More collaboration with Raleigh for paper flyers
 	* We don't feel as qualified to design corporate branded flyers
 	* We want to present a unified image across the offices
 
@@ -42,7 +42,7 @@ Therefore, we have the following requests pertaining to the flyer templates:
  	* the style guide that was emailed out has no way for us to take those
  	style elements and apply them to our brochure document
 
- ## Other Notes
+## Other Notes
 
  - Focus group testing with former interns suggested that we advertise free ice cream prominently
  - Action needed on raffle:
@@ -50,11 +50,11 @@ Therefore, we have the following requests pertaining to the flyer templates:
  	* Need to ask about leftover raffle tickets from summer kick-off
  - Deadline for brochure bios is this Friday 7/11
 
- ## In Progress
+## In Progress
 
- Next week marks beginning of lead-in campaign according to schedule
+Next week marks beginning of lead-in campaign according to schedule
 
- **ACTION ITEMS**
+**ACTION ITEMS**
  - Have 1-2 emails drafted by the end of this week to send to boston-list next week
  - Find out from Raleigh when we can get editable versions of flyer style elements
  - Edit flyers to contain relevant Westford information

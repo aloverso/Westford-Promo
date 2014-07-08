@@ -1,6 +1,47 @@
 Westford Internship Expo - Planning Group
 =========================================
 
+
+### Status from July 8th, 2014 ###
+
+TODO
+----
+ * Decide if a raffle will be helpful or not
+	* do we have the resources?
+	* would a raffle help the success of the event?
+	* attendees get tickets for every intern they talk to? 
+ * Clearly communicate setup and teardown roles for interns
+	* create a volunteer form so people can choose setup jobs?
+
+Progress
+--------
+ * Created setup and teardown plan
+ * Created service desk ticket for extra laptop
+	* Waiting for response
+
+Setup/teardown plan
+-------------------
+ * 1:10 PM - Subteam of interns collects extra monitors and power strips from lab and 
+   and brings them to the cafeteria
+ * 1:20 PM - Any interns who have extra monitors or power strips bring them down to 
+   the cafe (clearly labelled) 
+ * 1:30 PM - Cafeteria closes, all interns arrive:
+	* Melissa works with Karen from facilities to set up food
+	* Jeff works with a subset of interns to rearrange tables
+	* Gregory works with a few others to set up powerstrips and monitors
+	* Anne and Matt make sure promotional materials are in correct places
+		(brochures being handed out, cafe projector displaying something)
+	* Each individual interns plug in laptops and pull up presentation materials
+	* Someone starts a blue jeans call with remote intern
+ * 2:00 PM - Expo opens for associates to begin attending
+	* Interns closest to the doors hand out brochures and point associates to food
+ * 2:00 PM - 4:00 PM Expo Runs
+ * 4:00 PM - Expo ends, cleanup begins with same job assignments as setup
+	* Cleanup food
+	* Return tables to original placement
+	* Return monitors and power to lab
+	* Interns take personal equipment
+
 ### Status from July 2nd, 2014 ###
 
 TODO

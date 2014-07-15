@@ -1,6 +1,42 @@
 Westford Internship Expo - Planning Group
 =========================================
 
+### Status from July 15th, 2014 ###
+
+TODO
+----
+ * Need to touch base with Ryan, the remote intern and see if our current plan will work with him
+ * Make sure everyone brings nametag from their cubes to put on their tables
+ * Collect raffle tickets from Karen
+
+Progress
+--------
+ * Recieved confirmation from IT that we can get a laptop for remote intern
+ * Recieved swag for raffle!
+	* seperated into two prizes
+ * Talked to Karen about using leftover event tickets for raffle (awaiting response)
+
+Tentative Expo Job Assignments?
+------------------------------
+
+__Setup/put away food:__
+Melissa, Brendan, Philip, Yin, Mrudula, Courtney
+
+__Setup/put away tables:__
+Jeff, Mark, Nasser, John Bieren, Ricky
+
+__Setup/put away powerstrips and monitors__
+Greg, Chris, Sean, Yuze, John Baublitz
+
+__Setup video call for remote__
+Anne, Matt, Ryan
+
+__Handout brochures during expo__
+Melissa and Brendan
+
+__In charge of raffle prize__
+Anne
+
 
 ### Status from July 8th, 2014 ###
 
@@ -144,4 +180,3 @@ Teardown
 --------
  * Restore tables
  * Return monitors
-

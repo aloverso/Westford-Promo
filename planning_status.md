@@ -1,6 +1,52 @@
 Westford Internship Expo - Planning Group
 =========================================
 
+### Status from July 22nd, 2014 ###
+
+Questions for Jamie
+-------------------
+* Should interns send presentations to Jamie or should leaders compile?
+* Should presentations utilize the branded blueprint slides you sent?
+
+
+TODO
+----
+ * Figure out how to collect final presentations from each intern (see above question)
+ * Send out meeting invite for Tuesday Aug 5th
+	* Agenda: discuss when to arrive in cafe and what to bring: Monitors, laptops, nametags
+ * Need to touch base with Ryan, the remote intern and see if our current plan will work with him
+
+
+Progress
+--------
+ * Received swag for raffle and divided into two piles 
+ * Collected raffle tickets from Karen
+ * Got IT confirmation about an extra laptop 
+ * Met with some members of planning team to discuss and finalize job assignments
+
+
+Finalized Expo Job Assignments
+------------------------------
+
+__Setup/put away food:__
+Melissa, Brendan, Philip, Yin, Mrudula, Courtney
+
+__Setup/put away tables:__
+Jeff, Mark, Nasser, John Bieren, Ricky
+
+__Setup/put away powerstrips and monitors__
+Greg, Chris, Sean, Yuze, John Baublitz
+
+__Setup video call for remote__
+Anne, Matt, Ryan
+
+__Handout brochures during expo__
+Melissa and Brendan
+
+__In charge of raffle prize__
+Anne
+
+
 ### Status from July 15th, 2014 ###
 
 TODO
@@ -11,8 +57,8 @@ TODO
 
 Progress
 --------
- * Recieved confirmation from IT that we can get a laptop for remote intern
- * Recieved swag for raffle!
+ * Received confirmation from IT that we can get a laptop for remote intern
+ * Received swag for raffle!
 	* seperated into two prizes
  * Talked to Karen about using leftover event tickets for raffle (awaiting response)
 

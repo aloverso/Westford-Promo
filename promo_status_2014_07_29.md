@@ -14,9 +14,9 @@ Come on down to this summer's Intern Expo event! Ice cream will be served,
 and you could win Red Hat swag. See all that the interns have accomplished!
 
 Date: Thursday August 7
-Time: 2-4pm
+Time: 2-4pm, drop in whenever you can
 Who: The 2014 Summer Interns
-What: A celebration of this year's interns!
+What: A science-fair style event celebrating this year's intern work!
 Where: Westford Cafeteria
 Why: Free ice cream, Red Hat swag raffle, exciting intern projects!
 

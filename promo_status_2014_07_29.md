@@ -10,7 +10,9 @@ Email draft as follows, waiting in Jamie for approval:
 ```
 Subject: You’re invited to the 2014 Westford Intern Expo
 
-Join us for an Intern Expo on Thursday, August 7 to hear about the projects and programs the Red Hat interns worked on this summer. Grab some ice cream, enter to win Red Hat swag, and celebrate the end of the summer with our interns.
+Join us for an Intern Expo on Thursday, August 7 to hear about the projects and 
+programs the Red Hat interns worked on this summer. Grab some ice cream, enter to 
+win Red Hat swag, and celebrate the end of the summer with our interns.
 
 Date: Thursday, August 7
 Time: 2-4 p.m. Drop in whenever you can

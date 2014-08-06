@@ -8,24 +8,24 @@
 Email draft as follows, waiting in Jamie for approval:
 
 ```
-Subject: Come attend the 2014 Westford Intern Expo with FREE ICE CREAM
+Subject: You’re invited to the 2014 Westford Intern Expo
 
-Come on down to this summer's Intern Expo event! Ice cream will be served,
-and you could win Red Hat swag. See all that the interns have accomplished!
+Join us for an Intern Expo on Thursday, August 7 to hear about the projects and 
+programs the Red Hat interns worked on this summer. Grab some ice cream, enter to 
+win Red Hat swag, and celebrate the end of the summer with our interns.
 
-Date: Thursday August 7
-Time: 2-4pm
-Who: The 2014 Summer Interns
-What: A celebration of this year's interns!
-Where: Westford Cafeteria
-Why: Free ice cream, Red Hat swag raffle, exciting intern projects!
+Date: Thursday, August 7
+Time: 2-4 p.m. Drop in whenever you can
+Location: Westford Cafeteria  
+What: A science-fair style event to celebrate and showcase the contributions from this year’s interns
+Why: Exciting intern projects, free ice cream, raffle for Red Hat swag
+
+Calendar invitation to follow.
 
 We look forward to seeing you there! 
 
-Calendar invite to follow.
-
 Cheers,
-Your 2014 Summer Interns 
+Your 2014 Summer Interns
 ```
  
 ### Action Items

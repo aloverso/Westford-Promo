@@ -1,6 +1,19 @@
 Westford Internship Expo - Planning Group
 =========================================
 
+### Status for July 29th, 2014 ###
+
+TODO
+----
+ * Interns working on individual presentations
+ * Brochure printing
+ * Contact remote intern
+
+Progress
+--------
+ * Individual intern blurbs for brochure finalized
+ * Brochure finished
+
 ### Status from July 22nd, 2014 ###
 
 Questions for Jamie

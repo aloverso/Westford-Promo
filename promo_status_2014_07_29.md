@@ -10,7 +10,8 @@ Email draft as follows, waiting in Jamie for approval:
 ```
 Subject: Come attend the 2014 Westford Intern Expo with FREE ICE CREAM
 
-Come on down to this summer's Intern Expo event! Ice cream will be served, and you could win Red Hat swag. See all that the interns have accomplished!
+Come on down to this summer's Intern Expo event! Ice cream will be served,
+and you could win Red Hat swag. See all that the interns have accomplished!
 
 Date: Thursday August 7
 Time: 2-4pm
@@ -36,3 +37,4 @@ Your 2014 Summer Interns
 ## Digital and Paper Signage
 
 Collaboration with Raleigh
+so
